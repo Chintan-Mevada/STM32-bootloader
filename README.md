@@ -1,6 +1,6 @@
 # STM32-bootloader
 <br>
-<p>In this repo there are some few various project for bootloader in <b>&quot;STM32F407ZGT6&quot;<b>.<p>
+<p>In this repo there are some few various project for bootloader in <b>&quot;STM32F407ZGT6&quot;</b>.</p>
 <br>
 <p style="font-size: 18px"><b><u>1. Bootloader Using SDCARD :</u></b></p>
 <br>
