@@ -2,7 +2,7 @@
 <br>
 <p>In this repo there are some few various project for bootloader in <b>&quot;STM32F407ZGT6&quot;<b>.<p>
 <br>
-<h2>1. Bootloader Using SDCARD :<h2>
+<p style="size: 12px">1. Bootloader Using SDCARD :</p>
 <br>
 <p>In this Project when bootloader program run so, it detect the sd card and install & run the application program</p>
 <br>
